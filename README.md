@@ -2,6 +2,29 @@
 
 A fullstack team members management application for Team Kanya Raasi. This application allows users to view, add, update, and delete team members, showcasing their skills, roles, and projects they're working on.
 
+## Screenshots
+
+Here are some screenshots of the Team Kanya Raasi application:
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Team Members List
+![Team Members List](screenshots/team-list.png)
+
+### Member Details
+![Member Details](screenshots/member-details.png)
+
+### Add New Member
+![Add Member](screenshots/add-member.png)
+
+### How to Add Your Own Screenshots
+
+1. Take screenshots of your running application (Windows: use Win+Shift+S, Mac: use Cmd+Shift+4)
+2. Save the screenshots in the `screenshots` directory
+3. Name them appropriately (e.g., home-page.png, team-list.png)
+4. The screenshots will automatically appear in the README when viewed on GitHub
+
 ## Team Members
 - Thatvik - Team Lead
 - Supriti - UI/UX Designer
