@@ -18,6 +18,8 @@ Here are some screenshots of the Team Kanya Raasi application:
 ### Add New Member
 ![Add Member](screenshots/add-member.png)
 
+**Note:** You can also view all screenshots in the [app-screenshots](./app-screenshots) folder.
+
 ### How to Add Your Own Screenshots
 
 1. Take screenshots of your running application (Windows: use Win+Shift+S, Mac: use Cmd+Shift+4)
@@ -149,24 +151,3 @@ Ensure MongoDB is running on your system. On Windows, you might need to start it
    ```
    npm start
    ```
-4. The application will automatically open in your default browser at http://localhost:3000
-
-## Features
-- View all team members in a responsive grid layout
-- View detailed information for each team member
-- Add new team members with skills and projects
-- Update existing team member information
-- Delete team members
-- Upload and display profile pictures
-
-## Troubleshooting
-
-### MongoDB Connection Issues
-- Ensure MongoDB is running
-- Check the MONGO_URI in your .env file
-- Try connecting to MongoDB using MongoDB Compass to verify connectivity
-
-### Image Upload Issues
-- Ensure the uploads directory exists in the server folder
-- Check file size limits (default: 5MB)
-- Only image files are allowed (.jpeg, .jpg, .png, .gif) 
