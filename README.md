@@ -26,10 +26,10 @@ Here are some screenshots of the Team Kanya Raasi application:
 4. The screenshots will automatically appear in the README when viewed on GitHub
 
 ## Team Members
-- Thatvik - Team Lead
-- Supriti - UI/UX Designer
-- Gnanesh - Backend Developer
-- Sneha - Frontend Developer
+- Thatvik - Team Lead - RA2211056010103
+- Supriti - UI/UX Designer - RA2211056010130
+- Gnanesh - Backend Developer - RA2211056010093
+- Sneha - Frontend Developer - RA2211056010134
 
 ## Project Description
 
